@@ -36,5 +36,7 @@ python3 optimal_path.py
 
 ![no_path_found](/assets/images/no_path_found.png)
 
-
+## *References*
+- [NetworkX](https://networkx.org/documentation/stable/reference/index.html) python package
+- [Erdos-Renyi model](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93R%C3%A9nyi_model)
 
